@@ -1,8 +1,0 @@
-history_id,cook_date,menu_id,meal_type,status
-H001,2026-02-09,M001,夕食,cooked
-H002,2026-02-10,M005,夕食,cooked
-H003,2026-02-11,M008,夕食,cooked
-H004,2026-02-12,M014,夕食,cooked
-H005,2026-02-16,M012,夕食,planned
-H006,2026-02-17,M003,夕食,planned
-H007,2026-02-18,M020,夕食,planned
